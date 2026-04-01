@@ -79,7 +79,7 @@ export default function Hero() {
         ))}
       </div>
 
-      <div className="relative z-10 flex w-full max-w-6xl flex-col items-center gap-12">
+      <div className="relative z-10 mt-10 md:mt-16 flex w-full max-w-6xl flex-col items-center gap-12">
         <div className="flex w-full flex-col items-center justify-center gap-12 md:flex-row md:items-center">
           <div className="relative z-10 flex flex-col items-center gap-8 max-w-2xl">
             <div className="relative flex h-112.5 max-w-150 items-end justify-center overflow-visible bg-red-700 rounded-1.5xl border border-white/10 md:h-64 md:w-80 shadow-2xl glow-cyan">
